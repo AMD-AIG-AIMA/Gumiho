@@ -1,3 +1,5 @@
+#!/bin/bash
+# Copyright © 2025 Advanced Micro Devices, Inc. All rights reserved.
 cd ./gumiho/train
 
 logger_name="logger_name_to_be_set"
