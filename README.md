@@ -48,13 +48,15 @@ bash scripts/eval_llama3.sh
 
 For training the Gumiho model, we provide a train.sh script. This script includes the commands and hyperparameters for the training process. To start training, run:
 ```bash
-bash train.sh
+bash scripts/train.sh
 ```
 
 ## Citation
+```
 @article{li2025gumiho,
   title={Gumiho: A Hybrid Architecture to Prioritize Early Tokens in Speculative Decoding},
   author={Li, Jinze and Xu, Yixing and Huang, Haiduo and Yin, Xuanwu and Li, Dong and Ngai, Edith CH and Barsoum, Emad},
   journal={arXiv preprint arXiv:2503.10135},
   year={2025}
+```
 }
