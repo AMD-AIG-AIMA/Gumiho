@@ -58,5 +58,5 @@ bash scripts/train.sh
   author={Li, Jinze and Xu, Yixing and Huang, Haiduo and Yin, Xuanwu and Li, Dong and Ngai, Edith CH and Barsoum, Emad},
   journal={arXiv preprint arXiv:2503.10135},
   year={2025}
-```
 }
+```
