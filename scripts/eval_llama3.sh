@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright © 2025 Advanced Micro Devices, Inc. All rights reserved.
 
 mlptopk=35
 tt=64
