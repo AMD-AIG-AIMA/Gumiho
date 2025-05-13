@@ -12,7 +12,6 @@ Gumiho employs a hybrid head design that combines serial and parallel components
 
 ## Performance
 
-#### 表格 1: 不同方法的加速比和平均接受 token 数 ($\tau$)。V 代表 Vicuna，L2 代表 LLaMA2-Chat，L3 代表 LLaMA3-Instruct。我们展示了不同方法在六个数据集上的结果。*Mean* 代表在这六个数据集上的平均性能。
 
 **Temperature=0**
 
