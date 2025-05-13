@@ -1,4 +1,4 @@
-# Gumiho: A Hybrid Architecture to Prioritize Early Tokens in Speculative Decoding
+# Gumiho: A Hybrid Architecture to Prioritize Early Tokens in Speculative Decoding (ICML 2025)
 Jinze Li, Yixing Xu, Haiduo Huang, Xuanwu Yin, Dong Li, Edith C.H. Ngai, Emad Barsoum
 [Paper](https://arxiv.org/pdf/2503.10135?)
 
