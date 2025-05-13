@@ -1,3 +1,5 @@
+# Modifications Copyright © 2025 Advanced Micro Devices, Inc. All rights reserved.
+
 import os
 os.environ['MIOPEN_DISABLE_CACHE'] = '1'
 import argparse
