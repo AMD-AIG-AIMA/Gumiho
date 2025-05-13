@@ -10,8 +10,6 @@ This project implements Gumiho, a novel hybrid architecture designed to accelera
 Gumiho employs a hybrid head design that combines serial and parallel components. For the crucial early tokens, a sophisticated Transformer architecture is used in a serial configuration to enhance accuracy. For later tokens, multiple lightweight MLP heads operate in parallel to improve efficiency. This approach allocates more computational resources and longer running times to the early heads while utilizing efficient parallel computation for the later ones, leading to improved overall performance and higher acceptance lengths with less processing time per draft-verification cycle. Additionally, Gumiho introduces a Full Tree Attention (FTA) mechanism that enhances the existing Tree Attention by supplementing shorter candidate paths with tokens from longer paths, further increasing the mean accepted tokens without additional computational overhead.
 
 
-## Performance
-
 
 
 ## Checkpoints (ckpt)
@@ -60,3 +58,6 @@ bash scripts/train.sh
   year={2025}
 }
 ```
+
+## Acknowledgements
+This project is built upon [Eagle](https://github.com/SafeAILab/EAGLE), with additional modifications and extensions.
