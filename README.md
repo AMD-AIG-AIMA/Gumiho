@@ -103,6 +103,13 @@ bash scripts/eval_llama3.sh
 
 ## Training
 
+### Generate Train Data
+You can run the following command to generate the training data.
+```bash
+python -m gumiho.ge_data.allocation --outdir [path of data]
+```
+
+### Train
 For training the Gumiho model, we provide a train.sh script. This script includes the commands and hyperparameters for the training process. To start training, run:
 ```bash
 bash scripts/train.sh
