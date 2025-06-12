@@ -77,13 +77,13 @@ We provide checkpoints for Gumiho trained on various base LLMs. You can find the
 
 | Model         | Checkpoint Link             |
 |---------------|-----------------------------|
-| Vicuna 7B     | [Placeholder for ckpt link] |
-| Vicuna 13B    | [Placeholder for ckpt link] |
-| Llama2 7B     | [Placeholder for ckpt link] |
-| Llama2 13B    | [Placeholder for ckpt link] |
-| Llama2 70B    | [Placeholder for ckpt link] |
+| Vicuna 7B     | [amd/Gumiho-vicuna-7b](https://huggingface.co/amd/Gumiho-vicuna-7b) |
+| Vicuna 13B    | [amd/Gumiho-vicuna-13b](https://huggingface.co/amd/Gumiho-vicuna-13b) |
+| Llama2 7B     | [amd/Gumiho-llama2-7b](https://huggingface.co/amd/Gumiho-llama2-7b) |
+| Llama2 13B    | [amd/Gumiho-llama2-13b](https://huggingface.co/amd/Gumiho-llama2-13b) |
+| Llama2 70B    | [amd/Gumiho-llama2-70b](https://huggingface.co/amd/Gumiho-llama2-70b) |
 | Llama3 8B     | [amd/Gumiho-llama3-8b](https://huggingface.co/amd/Gumiho-llama3-8b) |
-| Llama3 70B    | [Placeholder for ckpt link] |
+| Llama3 70B    | [amd/Gumiho-llama3-70b](https://huggingface.co/amd/Gumiho-llama3-70b) |
 
 ## Environment Setup
 
