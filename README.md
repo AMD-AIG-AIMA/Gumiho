@@ -82,7 +82,7 @@ We provide checkpoints for Gumiho trained on various base LLMs. You can find the
 | Llama2 7B     | [Placeholder for ckpt link] |
 | Llama2 13B    | [Placeholder for ckpt link] |
 | Llama2 70B    | [Placeholder for ckpt link] |
-| Llama3 8B     | amd/Gumiho-llama3-8b[https://huggingface.co/amd/Gumiho-llama3-8b] |
+| Llama3 8B     | [amd/Gumiho-llama3-8b](https://huggingface.co/amd/Gumiho-llama3-8b) |
 | Llama3 70B    | [Placeholder for ckpt link] |
 
 ## Environment Setup
