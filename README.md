@@ -3,7 +3,7 @@ Jinze Li, Yixing Xu, Haiduo Huang, Xuanwu Yin, Dong Li, Edith C.H. Ngai*, Emad B
 [Paper](https://arxiv.org/pdf/2503.10135?)
 
 ## Update
-- July 11, 2025: Gumiho has been merged into vLLM framework. See folder `vllm` for detail
+- July 11, 2025: Gumiho has been merged into vLLM framework. Go to folder `vllm` for more details.
 
 ## Introduction
 
