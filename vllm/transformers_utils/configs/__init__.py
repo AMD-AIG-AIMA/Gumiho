@@ -1,6 +1,7 @@
-# SPDX-License-Identifier: Apache-2.0
 # Modifications Copyright © 2025 Advanced Micro Devices, Inc. All rights reserved.
 #
+# SPDX-License-Identifier: Apache-2.0
+
 
 from vllm.transformers_utils.configs.chatglm import ChatGLMConfig
 from vllm.transformers_utils.configs.cohere2 import Cohere2Config

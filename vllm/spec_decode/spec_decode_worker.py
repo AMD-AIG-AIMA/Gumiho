@@ -1,6 +1,7 @@
-# SPDX-License-Identifier: Apache-2.0
 # Modifications Copyright © 2025 Advanced Micro Devices, Inc. All rights reserved.
 #
+# SPDX-License-Identifier: Apache-2.0
+
 
 import copy
 from collections import defaultdict

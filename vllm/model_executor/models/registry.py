@@ -1,6 +1,8 @@
-# SPDX-License-Identifier: Apache-2.0
+
 # Modifications Copyright © 2025 Advanced Micro Devices, Inc. All rights reserved.
 #
+# SPDX-License-Identifier: Apache-2.0
+
 
 """
 Whenever you add an architecture to this page, please also update
