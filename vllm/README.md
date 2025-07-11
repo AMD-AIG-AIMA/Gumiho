@@ -54,7 +54,7 @@ Download a publicly available Docker image, and then replace the vLLM library co
    bash script/vllm.sh
    ```
 
-## Results on MI300
+## Results on AMD Instinct MI300 GPU
 |Dataset|Method|Mean Accept Tokens|Speed (tokens/s)|Speedup Ratio|
 |-|-|-|-|-|
 |GSM8K|Vanilla|-|169.86|1.00x|
