@@ -53,3 +53,13 @@ Download a publicly available Docker image, and then replace the vLLM library co
    cd /Gumiho
    bash script/vllm.sh
    ```
+
+## Results on MI300
+|Dataset|Method|Mean Accept Tokens|Speed (tokens/s)|Speedup Ratio|
+|-|-|-|-|-|
+|GSM8K|Vanilla|-|169.86|1.00x|
+||Eagle|2.17|204.04|1.20x|
+||Gumiho|**2.54**|**215.82**|**1.27x (+5.8%)**|
+|HumanEval|Vanilla|-|169.44|1.00x|
+||Eagle|2.33|209.13|1.23x|
+||Gumiho|**2.82**|**231.48**|**1.37x (+11.4%)**|
