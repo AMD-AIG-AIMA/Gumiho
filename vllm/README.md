@@ -4,7 +4,7 @@ This repository provides updated code for integrating Gumiho with vLLM.
 
 ## Usage
 
-The usage method is very simple: You only need to use a publicly available Docker image, then replace the vLLM library code in the Docker with the code from our folder. Specifically:
+Download a publicly available Docker image, and then replace the vLLM library code in the Docker with the code from our folder.
 
 1. Download the public Docker image:
 
